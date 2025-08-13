@@ -19,10 +19,10 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,sqlite,git,github,netlify" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,git,github,netlify" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,postman,ubuntu,linux,redhat,slack,jira,render,canva,ae,pr,filmora"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,postman,redhat,linux,slack,jira,render,canva,ae,pr,filmora"/>
 </p>
 
 ---
@@ -32,25 +32,22 @@
 - **Tech:** MERN, AI, LLaMA3, OCR
 - Automates evaluation of typed scripts with AI-based grading & feedback.
 
+#### 🔹 [Rock-Paper-Scissors-Online](https://abbireddyprasad-rock-paper-scissiors.netlify.app)
+- **Tech:** HTML, CSS, JavaScript
+- Rock, Paper, Scissors Web Game A fun and interactive web-based game.
+
 #### 🔹 [SpaceX-Themed Interactive UI](https://abbireddyprasad-brs.github.io/project-spacex/)
 - **Tech:** HTML, CSS, JavaScript, Figma
 - A sleek, responsive SpaceX-inspired interface with optimized UX.
 
 ---
-
-### 🌐 Connect With Me  
-<p align="center">
-<a href="https://www.linkedin.com/in/saiprasadabbireddy/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="mailto:abbireddysaiprasad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-<a href="https://github.com/AbbireddyPrasad-BRS"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://abbireddyprasad-brs.github.io/portfolio/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="45" /></a>
-<a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="45" /></a>
-<a href="https://www.hackerrank.com/profile/prasadAbbireddy"><i class="fa-brands fa-hackerrank"></i></a>
-<a href="https://www.instagram.com/always_cherry_215/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-</p>
+### 🏆 Achievements
+- **Top 15** at “Prajwalan 2K24” National Hackathon.
+- **RHCSA Certified** in Linux system administration.
+- **Department Topper** in 4 of 6 semesters (B.Tech AIML).
+- **Emerging Student of the Year 2020** – APJ Abdul Kalam Foundation.
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbbireddyPrasad-BRS&show_icons=true&theme=tokyonight" height="165" />
@@ -59,12 +56,20 @@
 
 ---
 
-### 🏆 Achievements
-- **Top 15** at “Prajwalan 2K24” National Hackathon.
-- **RHCSA Certified** in Linux system administration.
-- **Department Topper** in 4 of 6 semesters (B.Tech AIML).
-- **Emerging Student of the Year 2020** – APJ Abdul Kalam Foundation.
+### 🌐 Connect With Me  
+<p align="center">
+<a href="mailto:abbireddysaiprasad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+<a href="https://www.linkedin.com/in/saiprasadabbireddy/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://github.com/AbbireddyPrasad-BRS"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://abbireddyprasad-brs.github.io/portfolio/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="45" /></a>
+<a href="https://www.hackerrank.com/profile/prasadAbbireddy"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" width="45" /></a>
+<a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="45" /></a>
+<a href="https://www.hackerrank.com/profile/prasadAbbireddy"><i class="fa-brands fa-hackerrank"></i></a>
+<a href="https://www.instagram.com/always_cherry_215/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://x.com/AbbireddyPrasad"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+</p>
 
 ---
+
 
 ⭐ **Fun Fact:** I believe in *“Building ideas that inspire & impact”* ✨
