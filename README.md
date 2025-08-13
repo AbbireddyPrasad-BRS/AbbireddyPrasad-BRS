@@ -37,12 +37,13 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/saiprasadabbireddy/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="mailto:abbireddysaiprasad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-<a href="https://github.com/AbbireddyPrasad-BRS"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://abbireddyprasad-brs.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=chrome" width="45"/></a>
-<a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
-<a href="https://www.hackerrank.com/profile/prasadAbbireddy"><img src="https://skillicons.dev/icons?i=hackerrank" width="45"/></a>
+<a href="https://www.linkedin.com/in/saiprasadabbireddy/">LinkedIn<img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="mailto:abbireddysaiprasad@gmail.com">GMail<img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+<a href="https://github.com/AbbireddyPrasad-BRS">Github<img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://abbireddyprasad-brs.github.io/portfolio/">Portfolio<img src="https://skillicons.dev/icons?i=chrome" width="45"/></a>
+<a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/">LeetCode<img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
+<a href="https://www.hackerrank.com/profile/prasadAbbireddy">HackerRank<img src="https://skillicons.dev/icons?i=hackerrank" width="45"/></a>
+<a href="https://www.instagram.com/always_cherry_215/">Instagram<img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 </p>
 
 ---
