@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abbireddy Veera Venkata Satya Sai Prasad</h1>
+<h1 align="center">Hi, I'm Abbireddy Veera Venkata Satya Sai Prasad</h1>
 <h3 align="center">Aspiring Software Developer | AI & ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Passionate+about+AI+%26+ML;Full-Stack+MERN+Developer;Loves+Building+Creative+Solutions;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Passionate+about+AI+%26+ML;Full-Stack+MERN+Developer;Loves+Building+Creative+Solutions;Always+Learning+New+Tech;Compitetive+Coder" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** @ Aditya Engineering College (GPA: 9.01/10)
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** @ Aditya Engineering College (GPA: 9.01*/10)
 - 💻 Skilled in **AI, Machine Learning, MERN Stack, LLMs, OCR**.
 - 🏆 **Achievements**: Top 15 @ Prajwalan 2K24 National Hackathon, RHCSA Certified.
 - 🌱 Currently exploring **advanced LLM applications** & **full-stack AI integrations**.
@@ -19,7 +19,10 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,postgresql,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,redhat,figma,canva,ai" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,sqlite,git,github,netlify" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,postman,ubuntu,linux,redhat,slack,jira,render,canva,ae,pr,filmora"/>
 </p>
 
 ---
@@ -27,7 +30,7 @@
 ### 📌 Featured Projects
 #### 🔹 [AI-Based Exam Paper Evaluation System](https://abbireddyprasad-exam-evaluator.netlify.app/)
 - **Tech:** MERN, AI, LLaMA3, OCR
-- Automates evaluation of handwritten/typed scripts with AI-based grading & feedback.
+- Automates evaluation of typed scripts with AI-based grading & feedback.
 
 #### 🔹 [SpaceX-Themed Interactive UI](https://abbireddyprasad-brs.github.io/project-spacex/)
 - **Tech:** HTML, CSS, JavaScript, Figma
@@ -37,13 +40,13 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/saiprasadabbireddy/">LinkedIn<img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="mailto:abbireddysaiprasad@gmail.com">GMail<img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-<a href="https://github.com/AbbireddyPrasad-BRS">Github<img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://abbireddyprasad-brs.github.io/portfolio/">Portfolio<img src="https://skillicons.dev/icons?i=chrome" width="45"/></a>
-<a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/">LeetCode<img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
-<a href="https://www.hackerrank.com/profile/prasadAbbireddy">HackerRank<img src="https://skillicons.dev/icons?i=hackerrank" width="45"/></a>
-<a href="https://www.instagram.com/always_cherry_215/">Instagram<img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+<a href="https://www.linkedin.com/in/saiprasadabbireddy/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="mailto:abbireddysaiprasad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+<a href="https://github.com/AbbireddyPrasad-BRS"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://abbireddyprasad-brs.github.io/portfolio/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="45" /></a>
+<a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="45" /></a>
+<a href="https://www.hackerrank.com/profile/prasadAbbireddy"><i class="fa-brands fa-hackerrank"></i></a>
+<a href="https://www.instagram.com/always_cherry_215/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 </p>
 
 ---
