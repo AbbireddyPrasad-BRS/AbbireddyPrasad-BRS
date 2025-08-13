@@ -41,13 +41,7 @@
 - A sleek, responsive SpaceX-inspired interface with optimized UX.
 
 ---
-### 🏆 Achievements
-- **Top 15** at “Prajwalan 2K24” National Hackathon.
-- **RHCSA Certified** in Linux system administration.
-- **Department Topper** in 4 of 6 semesters (B.Tech AIML).
-- **Emerging Student of the Year 2020** – APJ Abdul Kalam Foundation.
 
----
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbbireddyPrasad-BRS&show_icons=true&theme=tokyonight" height="165" />
