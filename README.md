@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | AI & ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Driver+by+Code.+Powered+by+Curiosity;Full-Stack+MERN+Developer;Passionate+Competitive+Coder;RedHat+Certified+System+Administrator;Loves+Building+Creative+Solutions;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Driver+by+Code.+Powered+by+Curiosity;Full-Stack+MERN+Developer;Passionate+Competitive+Coder;RedHat+Certified+System+Administrator;Loves+Building+Creative+Solutions;Dedicated+Video+Editor;Always+Learning+New+Tech" />
 </p>
 
 ---
