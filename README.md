@@ -28,7 +28,7 @@
 ---
 
 ### 📌 Featured Projects
-#### 🔹 [AI-Based Exam Paper Evaluation System](https://abbireddyprasad-exam-evaluator.netlify.app/)
+#### 🔹 [AI-Based Exam Paper Evaluation System](https://abbireddy-exam-evaluator.onrender.com/)
 - **Tech:** MERN, AI, LLaMA3, OCR
 - Automates evaluation of typed scripts with AI-based grading & feedback.
 
