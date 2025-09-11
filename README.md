@@ -55,7 +55,7 @@
 <a href="mailto:abbireddysaiprasad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 <a href="https://www.linkedin.com/in/saiprasadabbireddy/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 <a href="https://github.com/AbbireddyPrasad-BRS"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://abbireddyprasad-brs.github.io/portfolio/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="45" /></a>
+<a href="https://abbireddy-portfolio.netlify.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="45" /></a>
 <a href="https://www.hackerrank.com/profile/prasadAbbireddy"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" width="45" /></a>
 <a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="45" /></a>
 <a href="https://www.hackerrank.com/profile/prasadAbbireddy"><i class="fa-brands fa-hackerrank"></i></a>
