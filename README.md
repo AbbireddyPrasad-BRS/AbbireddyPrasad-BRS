@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Problem-Solving+Coder;RedHat+Certified+System+Administrator;Dedicated+Video+Editor;Loves+Building+Creative+Solutions;Always+Learning+New+Tech" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbbireddyPrasad-BRS&theme=tokyonight&row=1&column=6" />
+</p>
 
 ---
 
@@ -44,9 +47,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbbireddyPrasad-BRS&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbireddyPrasad-BRS&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbbireddyPrasad-BRS&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbireddyPrasad-BRS&layout=compact&theme=tokyonight" height="150" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbbireddyPrasad-BRS&theme=tokyonight&hide_border=false" height="200"/>
 </p>
+
+
 
 ---
 
@@ -58,12 +64,10 @@
 <a href="https://abbireddy-portfolio.netlify.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" width="45" /></a>
 <a href="https://www.hackerrank.com/profile/prasadAbbireddy"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" width="45" /></a>
 <a href="https://leetcode.com/u/V_V_S_S_Prasad_Abbireddy/"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="45" /></a>
-<a href="https://www.hackerrank.com/profile/prasadAbbireddy"><i class="fa-brands fa-hackerrank"></i></a>
 <a href="https://www.instagram.com/always_cherry_215/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://x.com/AbbireddyPrasad"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+<a href="https://x.com/AbbireddyPrasad"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
 
 ---
-
 
 ⭐ **Fun Fact:** I believe in *“Building ideas that inspire & impact”* ✨
