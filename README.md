@@ -74,6 +74,10 @@ I use a modern and versatile set of technologies for full-stack, AI, and system 
 * **Description:** Automates the grading and feedback process for typed exam scripts using AI.
 * **Tech Stack:** `MERN Stack` | `LLaMA3` | `OCR` | `AI Grading`
 
+### 💰 [Bill Buddy](https://a-bb.netlify.app)
+* **Description:**Smart bill management application with expense tracking and financial insights.
+* **Tech Stack:** `REACT` | `NODE` | `MONGO DB` | `EXPRESS` | `TAILWIND CSS` 
+
 ### 🎮 [Rock-Paper-Scissors-Online](https://abbireddyprasad-rock-paper-scissiors.netlify.app)
 * **Description:** A classic, interactive web-based Rock, Paper, Scissors game.
 * **Tech Stack:** `HTML` | `CSS` | `JavaScript`
