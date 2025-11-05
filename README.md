@@ -91,13 +91,9 @@ I use a modern and versatile set of technologies for full-stack, AI, and system 
 ## 📈 My GitHub Activity
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AbbireddyPrasad-BRS&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbbireddyPrasad-BRS&show_icons=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbireddyPrasad-BRS&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
 </p>
-<!-- <p align="center"> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbbireddyPrasad-BRS&show_icons=true&theme=tokyonight&hide_border=false" height="165" alt="GitHub Stats" /> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbireddyPrasad-BRS&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" /> -->
-<!-- </p> -->
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AbbireddyPrasad-BRS&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
